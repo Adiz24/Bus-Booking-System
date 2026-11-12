@@ -1,4 +1,3 @@
-#%%
 # BUS RESERVATION SYSTEM
 
 FILE_NAME = "bookings.txt"
